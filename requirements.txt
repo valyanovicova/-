@@ -1,0 +1,18 @@
+Задание 1:
+torch
+torchaudio
+pyaudio
+wave
+transformers
+gtts
+pygame
+librosa
+
+Задание 2:
+torch
+librosa
+numpy
+scikit-learn
+transformers
+
+
